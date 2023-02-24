@@ -1,7 +1,7 @@
 terraform {
   cloud {
     workspaces {
-      name = "agent-oasis-test"
+      name = "agent-test"
     }
     organization = "ntodd"
   }
