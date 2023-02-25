@@ -4,6 +4,7 @@ terraform {
       name = "agent-test"
     }
     organization = "ntodd"
+    hostname = "app.staging.terraform.io"
   }
 
   required_providers {
